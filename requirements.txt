@@ -1,0 +1,11 @@
+jupyterlab
+numpy
+matplotlib
+pillow
+transformers==4.37.2
+ipywidgets
+accelerate
+bitsandbytes
+peft
+einops
+sentencepiece
